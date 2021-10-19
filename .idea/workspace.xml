@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="新增算法">
-      <change afterPath="$PROJECT_DIR$/leetCode/maxProfit.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/const.go" afterDir="false" />
+    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="#121 买卖股票的最佳时机">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/maxProfit.go" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/maxProfit.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ask.go.tool.to.install.GoImportsTaskConsumer" value="true" />
     <property name="configurable..is.expanded" value="true" />
     <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
@@ -55,7 +55,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="preferences.remoteExternalTools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -104,7 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增算法" />
+    <MESSAGE value="#121 买卖股票的最佳时机" />
+    <option name="LAST_COMMIT_MESSAGE" value="#121 买卖股票的最佳时机" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>

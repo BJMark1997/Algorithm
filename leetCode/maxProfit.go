@@ -3,7 +3,7 @@ package main
 import "math"
 
 func maxProfit(price []int) int {
-	minPrice := math.MaxInt
+	minPrice := math.MaxInt64
 	maxProfit := 0
 	for i := 0; i < len(price); i++ {
 		if price[i] < minPrice {
