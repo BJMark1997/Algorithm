@@ -16,7 +16,7 @@ func maxProfit(price []int) int {
 }
 
 func main() {
-	input := []int{7, 1, 5, 3, 6, 4}
+	input := []int{7, 1, 5, 3, 6, 3}
 	ouput := maxProfit(input)
 	println(ouput)
 }
