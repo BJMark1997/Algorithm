@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="#14 最长公共前缀" />
+    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="#408 有效单词缩写">
+      <change afterPath="$PROJECT_DIR$/leetCode/plusOne.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +106,8 @@
     <MESSAGE value="新增算法" />
     <MESSAGE value="#121 买卖股票的最佳时机" />
     <MESSAGE value="#14 最长公共前缀" />
-    <option name="LAST_COMMIT_MESSAGE" value="#14 最长公共前缀" />
+    <MESSAGE value="#408 有效单词缩写" />
+    <option name="LAST_COMMIT_MESSAGE" value="#408 有效单词缩写" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
