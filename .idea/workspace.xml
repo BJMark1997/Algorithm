@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="#121 买卖股票的最佳时机">
-      <change afterPath="$PROJECT_DIR$/leetCode/longestCommonPrefix.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="#14 最长公共前缀" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +102,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增算法" />
     <MESSAGE value="#121 买卖股票的最佳时机" />
-    <option name="LAST_COMMIT_MESSAGE" value="#121 买卖股票的最佳时机" />
+    <MESSAGE value="#14 最长公共前缀" />
+    <option name="LAST_COMMIT_MESSAGE" value="#14 最长公共前缀" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
