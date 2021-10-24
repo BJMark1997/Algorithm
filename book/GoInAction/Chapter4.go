@@ -28,6 +28,18 @@ func test4array() {
 	array7 = array8
 	fmt.Printf("%v", *array7[0])
 
+	var array9 [4][2]int
+	array9 = [4][2]int{{10, 11}, {20, 21}, {30, 31}, {40, 41}}
+	array10 := [4][2]int{1: {0, 1}}
+	var array11 = array9[1]
+	fmt.Println(array9, array10, array11)
+
+	slice := make([]string, 5)
+	slice1 := make([]string, 3, 5)
+	slice2 := []string{"Redis", "Docker"}
+	var slice3 []int
+	fmt.Println(slice, slice1, slice2, slice3)
+
 }
 
 func main() {
