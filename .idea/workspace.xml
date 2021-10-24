@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="#246 中心对称数">
-      <change afterPath="$PROJECT_DIR$/basic/fmt/fmt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/GoInAction/Chapter4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/1022_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/1022_2.go" afterDir="false" />
+    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="# Go">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/1_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/1_2.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/1_4.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/1_5.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/1_7.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_7.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/chapter2.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/GoLang/chapter2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/GoInAction/Chapter4.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/GoInAction/Chapter4.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +65,7 @@
       <recent name="E:\GoProject\Algorithm\Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build fmt.go">
+  <component name="RunManager" selected="Go Build.go build Chapter4.go">
     <configuration name="go build 1022_2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -117,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build fmt.go" />
         <item itemvalue="Go Build.go build Chapter4.go" />
+        <item itemvalue="Go Build.go build fmt.go" />
         <item itemvalue="Go Build.go build 1022_2.go" />
         <item itemvalue="Go Build.go build maxProfit.go" />
         <item itemvalue="Go Build.go build 1_1.go" />
@@ -149,7 +140,8 @@
     <MESSAGE value="#66 加一" />
     <MESSAGE value="#243 最短单词距离" />
     <MESSAGE value="#246 中心对称数" />
-    <option name="LAST_COMMIT_MESSAGE" value="#246 中心对称数" />
+    <MESSAGE value="# Go" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Go" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
