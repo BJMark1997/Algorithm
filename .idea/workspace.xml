@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="#246 中心对称数">
-      <change afterPath="$PROJECT_DIR$/test/postman.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/fmt/fmt.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book/GoInAction/Chapter4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/1022_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/1022_2.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/1_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/1_2.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/1_4.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/1_5.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_5.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/1_7.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/Go/1_7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/chapter2.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/GoLang/chapter2.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,17 +68,43 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GoProject\Algorithm\book\GoLang" />
+      <recent name="E:\GoProject\Algorithm\book\Go" />
       <recent name="E:\GoProject\Algorithm\book" />
       <recent name="E:\GoProject\Algorithm\Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build maxProfit.go">
+  <component name="RunManager" selected="Go Build.go build fmt.go">
+    <configuration name="go build 1022_2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/exam/1022_2.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build 1_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/basic/1_1.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Chapter4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/book/GoInAction/Chapter4.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build fmt.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/basic/fmt/fmt.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build maxProfit.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -82,6 +117,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build fmt.go" />
+        <item itemvalue="Go Build.go build Chapter4.go" />
+        <item itemvalue="Go Build.go build 1022_2.go" />
         <item itemvalue="Go Build.go build maxProfit.go" />
         <item itemvalue="Go Build.go build 1_1.go" />
       </list>
@@ -101,6 +139,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增算法" />
