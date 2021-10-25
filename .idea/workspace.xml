@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="# Go">
+      <change afterPath="$PROJECT_DIR$/book/GoInAction/Chapter5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/generate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/matrixReshape.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/book/GoInAction/Chapter4.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/GoInAction/Chapter4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/1022_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/exam/1022_1.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,21 +69,13 @@
       <recent name="E:\GoProject\Algorithm\Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build Chapter4.go">
+  <component name="RunManager" selected="Go Build.go build matrixReshape.go">
     <configuration name="go build 1022_2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/exam/1022_2.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 1_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/basic/1_1.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build Chapter4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -98,6 +94,14 @@
       <filePath value="$PROJECT_DIR$/basic/fmt/fmt.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build matrixReshape.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/leetCode/matrixReshape.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build maxProfit.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <working_directory value="$PROJECT_DIR$" />
@@ -108,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build matrixReshape.go" />
         <item itemvalue="Go Build.go build Chapter4.go" />
         <item itemvalue="Go Build.go build fmt.go" />
         <item itemvalue="Go Build.go build 1022_2.go" />
         <item itemvalue="Go Build.go build maxProfit.go" />
-        <item itemvalue="Go Build.go build 1_1.go" />
       </list>
     </recent_temporary>
   </component>
