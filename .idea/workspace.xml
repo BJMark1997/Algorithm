@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="# Go">
-      <change afterPath="$PROJECT_DIR$/book/GoInAction/Chapter5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/generate.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/matrixReshape.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/GoInAction/Chapter4.go" beforeDir="false" afterPath="$PROJECT_DIR$/book/GoInAction/Chapter4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/1022_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/exam/1022_1.go" afterDir="false" />
-    </list>
+    <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="# Go" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
