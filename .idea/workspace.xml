@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c072196-ff05-4361-a3fd-b7a5834dfbd2" name="Changes" comment="# Go">
-      <change afterPath="$PROJECT_DIR$/leetCode/isValidSudoku.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/reverseList.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/deleteDuplicates.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/distributeCandies.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/isValid.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
